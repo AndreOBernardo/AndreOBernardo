@@ -1,12 +1,12 @@
 
  <div>
-  <h1 align="center">#Hi there 👋 Welcome!😃️</h1>
-  <h2 align="center">I´m <a href="https://www.linkedin.com/in/andre-ob/"><i>Andre OBernardo</i></a> a novice Web Developer Front-end and Back-end(for now)!
+  <h2 align="center">#Hi there 👋 Welcome!😃️</h2>
+  <h3 align="center">I´m <a href="https://www.linkedin.com/in/andre-ob/"><i>Andre OBernardo</i></a> a novice Web Developer Front-end and Back-end(for now)!
   <p align="center"> From Brazil, linving in Rio de janeiro.</p>
   
   </a>
   <p align="center">I’m currently learning everything, and I'm interested in web developer(for now)! </h2>
-  <p align="center">2022 Goals: create new projects and find a new works.</h2>
+  <p align="center">2022 Goals: create new projects and find a new works.</h3>
 </div>
 
 <div align="center">
