@@ -1,4 +1,3 @@
-
  <div>
   <h2 align="center">#Hi there 👋 Welcome!😃️</h2>
   <h3 align="center">I´m <a href="https://www.linkedin.com/in/andre-ob/"><i>Andre OBernardo</i></a> a novice Web Developer Front-end and Back-end(for now)!
